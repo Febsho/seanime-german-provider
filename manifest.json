@@ -1,0 +1,21 @@
+{
+  "id": "deinname.german.provider",
+  "name": "German Stream Provider",
+  "version": "1.0.0",
+  "author": "DeinName",
+  "description": "Fügt deutsche Quellen wie AniWorld und AnimeToast hinzu.",
+  "type": "anime-provider",
+  "lang": "typescript",
+  "file": "dist/index.js", 
+  "website": "https://github.com/DeinGitHubName/DeinRepoName"
+}
+```
+* **Wichtig:** Bei `file` muss der Pfad zu deiner *kompilierten* JavaScript-Datei stehen (siehe Schritt 2).
+
+### Schritt 2: Code bauen (für TypeScript)
+
+Da Browser und Seanime oft kein rohes TypeScript verstehen, musst du es erst in JavaScript umwandeln.
+Führe in deinem Terminal aus:
+
+```bash
+npm run build
