@@ -1,5 +1,5 @@
 {
-  "id": "deinname.german.provider",
+  "id": "seanime.german.provider",
   "name": "German Stream Provider",
   "version": "1.0.0",
   "author": "DeinName",
@@ -7,5 +7,5 @@
   "type": "anime-provider",
   "lang": "typescript",
   "file": "dist/index.js", 
-  "website": "[https://github.com/DeinGitHubName/DeinRepoName](https://github.com/DeinGitHubName/DeinRepoName)"
+  "website": "[https://github.com/Febsho/seanime-german-provider](https://github.com/Febsho/seanime-german-provider)"
 }
