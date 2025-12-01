@@ -2,10 +2,11 @@
   "id": "seanime.german.provider",
   "name": "German Stream Provider",
   "version": "1.0.0",
-  "author": "DeinName",
+  "author": "Febsho",
   "description": "Deutsche Quellen (AniWorld)",
   "type": "anime-provider",
   "language": "typescript",
-  "file": "dist/index.js", 
-  "website": "[https://github.com/Febsho/seanime-german-provider](https://github.com/Febsho/seanime-german-provider)"
+  "website": "https://github.com/Febsho/seanime-german-provider",
+  "manifestURI": "https://raw.githubusercontent.com/Febsho/seanime-german-provider/main/manifest.json",
+  "payloadURI": "https://raw.githubusercontent.com/Febsho/seanime-german-provider/main/src/index.ts"
 }
