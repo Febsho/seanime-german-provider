@@ -5,7 +5,7 @@
   "author": "DeinName",
   "description": "Deutsche Quellen (AniWorld)",
   "type": "anime-provider",
-  "lang": "typescript",
+  "language": "typescript",
   "file": "dist/index.js", 
   "website": "[https://github.com/Febsho/seanime-german-provider](https://github.com/Febsho/seanime-german-provider)"
 }
